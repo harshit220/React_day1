@@ -1,0 +1,16 @@
+
+.App{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 3px solid black;
+  background-color: black;
+  padding: 30px;
+  margin: 40px;
+  color: whitesmoke;
+  width: 50%;
+  margin: auto;
+}
